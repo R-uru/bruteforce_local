@@ -7,7 +7,7 @@
 ## <a href="https://www.facebook.com/ruruonfb" target="_blank">Add me on Facebook</a>
 ## How to use
 ```
-git update && git upgrade
+pkg update && pkg upgrade
 ```
 
 ```
