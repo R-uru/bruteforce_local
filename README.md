@@ -6,15 +6,20 @@
 ```
 git update && git upgrade
 ```
+---
 ```
 pkg install git
 ```
+---
 ```
 git clone https://github.com/R-uru/bruteforce_local.git
 ```
+---
 ```
 cd bruteforce_local
 ```
+---
 ```
 python bruteforce_local.py
 ```
+---
